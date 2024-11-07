@@ -1,4 +1,4 @@
-# LaBEEs
+# LABEEs: Laboratory Automation in Bio(Medical) Engineering Education
 Repo storing survey data, Jupyter notebook exercises, and some data for a project in Lab Automation Education.
 
 ## Results from overall PLR effectiveness survey (conducted in BME 590 F24 at Duke University)
